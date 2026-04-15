@@ -36,7 +36,7 @@
   <a href="https://leetcode.com/lokesh191005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;
 </p>
 
-> **LeetCode:** [lokesh191005](https://leetcode.com/lokesh191005) — Problem-solving using Java and Python
+> **LeetCode:** [lokesh191005](https://leetcode.com/lokesh191005) — Problem-solving using Java.
 
 ---
 
